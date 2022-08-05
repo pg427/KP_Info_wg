@@ -18,3 +18,8 @@ What other data/information/knowledge could you provide that you don't.
 
 QUESTIONS SPECIFIC TO A SELECTED KP
 
+1. Automat-Biolink
+For the [Translator Standup Query](https://github.com/NCATSTranslator/testing/blob/main/ars-requests/not-none/1.2/mvpHuntington.json), the returned results from Automat-Biolink have EPC attributes composing: aggregator_knowledge_source (source-provenance) EPC attributes and the "biolink:relation" EPC attribute.
+
+Do these attributes provide complete information regarding this relation from this KP? Can more attributes be listed that give more information into how these relations were found (PubMED articles) or calculated ? 
+
