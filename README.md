@@ -4,6 +4,7 @@ QUESTIONS GENERIC TO ALL KPs
 
 What are all the EPC attributes you use?
 Which SmartAPI endpoints are currently active?
+Is there a finite list of IDs your KP use for the categories in the METAKG or does your KP use all IDs from a given external source?
 
 If you use external sources, please respond for each external source:
    Do you use all or part of it?
